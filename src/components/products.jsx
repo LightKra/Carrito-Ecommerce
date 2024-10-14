@@ -20,6 +20,7 @@ export const Products = ({products})=>{
                     return(
                     <li key={item.id}>
                         <img
+                            className='products'
                             src={item.thumbnail}
                             alt={item.title}
                         />

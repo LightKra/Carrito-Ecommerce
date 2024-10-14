@@ -1,4 +1,4 @@
-import imageTelefono from '../assets/telefono1.png';
+import imageTelefono from '../assets/box.jpg';
 import { ClearCartIcon, CartIcon } from './icons.jsx';
 import { useId } from 'react';
 import { useCart } from '../hooks/useCart.js';
